@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.estimote.examples.demos"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+
+
+    <!-- Declaration that this app is usable on phones with Bluetooth Low Energy. -->
+    <uses-feature
+        android:name="android.hardware.bluetooth_le"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.estimote.examples.com.ronan.proofOfConcept.DemosApplication"
+        android:icon="@drawable/bin"
+        android:label="Estimote Demos"
+        android:theme="@android:style/Theme.Holo.Light" >
+        <activity
+            android:name="com.estimote.examples.com.ronan.proofOfConcept.activities.AllDemosActivity"
+            android:gravity="center"
+            android:label="Bin Lift Demo."
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.estimote.examples.com.ronan.proofOfConcept.activities.ListNearablesActivity"
+            android:label="Select Beacon"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.estimote.examples.com.ronan.proofOfConcept.activities.NearablesDemoActivity"
+            android:label="Nearables Demo"
+            android:screenOrientation="portrait" />
+        <!--
+    There is no need any longer to declare BeaconService. It is declared in SDK's AndroidManifest.xml
+    and it will be merged to your app's AndroidManifest.xml.
+
+    <service android:name="com.estimote.sdk.service.BeaconService"
+             android:exported="false"/>
+        -->
+        <activity
+            android:name="com.estimote.examples.com.ronan.proofOfConcept.activities.DisplayBinLog"
+            android:label="@string/title_activity_display_bin_log" >
+        </activity>
+    </application>
+
+</manifest>

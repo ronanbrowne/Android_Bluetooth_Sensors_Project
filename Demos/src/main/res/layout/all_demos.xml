@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+              android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+      android:id="@+id/nearables_demo_button"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Stickers Bin Lift Demo"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Lift Logs"
+        android:id="@+id/logBtn" />
+
+
+
+
+
+</LinearLayout>

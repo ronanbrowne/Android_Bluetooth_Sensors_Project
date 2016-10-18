@@ -1,0 +1,7 @@
+#Tue Oct 18 17:57:00 BST 2016
+base.0=C\:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b6a608dd474258cfb2a1df04d2af6676da8ddc1c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8a1f8dfabf9be75fb2ef04986e1b24716a6dce03\\classes.dex
+base.1=C\:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8a1f8dfabf9be75fb2ef04986e1b24716a6dce03
+file.0=C\:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b6a608dd474258cfb2a1df04d2af6676da8ddc1c\\classes.dex

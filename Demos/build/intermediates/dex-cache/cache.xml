@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronan\Desktop\USB back up\Android city bin\Android-SDK-master\Demos\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="b17d7523ed1229f2193e6123a5da04f85f953011">
+        <dex dex="C:\Users\Ronan\Desktop\USB back up\Android city bin\Android-SDK-master\Demos\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8a1f8dfabf9be75fb2ef04986e1b24716a6dce03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronan\Desktop\USB back up\Android city bin\Android-SDK-master\Demos\build\intermediates\exploded-aar\estimote-sdk-preview\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="578beb5046314f17acbbd48509ee4b1a21710e97">
+        <dex dex="C:\Users\Ronan\Desktop\USB back up\Android city bin\Android-SDK-master\Demos\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-estimote-sdk-preview_81458f422d5cbf2821ae491e47529d20ec0a6b71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronan\Desktop\USB back up\Android city bin\Android-SDK-master\Demos\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="a6e84d28109bf36428bc2a022328e047d3616bc5">
+        <dex dex="C:\Users\Ronan\Desktop\USB back up\Android city bin\Android-SDK-master\Demos\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b6a608dd474258cfb2a1df04d2af6676da8ddc1c\classes.dex" />
+    </item>
+
+</items>

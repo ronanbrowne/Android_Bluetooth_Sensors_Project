@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\build\\intermediates\\res\\merged\\debug\\layout\\nearable_item.xml",
+        "source": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\src\\main\\res\\layout\\nearable_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\build\\intermediates\\res\\merged\\debug\\layout\\activity_display_bin_log.xml",
+        "source": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\src\\main\\res\\layout\\activity_display_bin_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\build\\intermediates\\res\\merged\\debug\\layout\\notify_demo.xml",
+        "source": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\src\\main\\res\\layout\\notify_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\build\\intermediates\\res\\merged\\debug\\layout\\characteristics_demo.xml",
+        "source": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\src\\main\\res\\layout\\characteristics_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\build\\intermediates\\res\\merged\\debug\\layout\\nearable_demo.xml",
+        "source": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\src\\main\\res\\layout\\nearable_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\build\\intermediates\\res\\merged\\debug\\layout\\update_demo.xml",
+        "source": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\src\\main\\res\\layout\\update_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\build\\intermediates\\res\\merged\\debug\\layout\\distance_view.xml",
+        "source": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\src\\main\\res\\layout\\distance_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\build\\intermediates\\res\\merged\\debug\\layout\\beacon_item.xml",
+        "source": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\src\\main\\res\\layout\\beacon_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\build\\intermediates\\res\\merged\\debug\\layout\\all_demos.xml",
+        "source": "C:\\Users\\Ronan\\Desktop\\USB back up\\Android city bin\\Android-SDK-master\\Demos\\src\\main\\res\\layout\\all_demos.xml"
+    }
+]

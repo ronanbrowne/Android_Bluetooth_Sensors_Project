@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+              android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+      android:id="@+id/nearables_demo_button"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Stickers Bin Lift Demo"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Lift Logs"
+        android:id="@+id/logBtn" />
+
+    <Button
+        android:id="@+id/update_demo_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update beacon's firmware demo"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/distance_demo_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Distance Demo"
+        android:visibility="invisible" />
+
+    <Button
+      android:id="@+id/notify_demo_button"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Notify Demo"
+        android:visibility="invisible" />
+
+    <Button
+      android:id="@+id/characteristics_demo_button"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Change Beacon's Minor Demo"
+        android:visibility="invisible" />
+
+</LinearLayout>
